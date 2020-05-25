@@ -1,0 +1,36 @@
+@media only screen and (max-width: 480px) {
+    /* This CSS will be applied only to phones and other small devices. */
+}
+
+h3 {
+	font-family: Poppins-Medium;
+  color: #021428;
+  line-height: 1.4;
+  text-align: left;
+}
+
+#login {
+	margin-top:100px;
+	margin-left: 455px;
+	padding-right: 455px;
+}
+
+
+#signup {
+	margin-top:20px;
+	margin-left: 155px;
+	padding-right: 255px;
+}
+
+#contact {
+	margin-top:20px;
+	margin-left: 155px;
+	padding-right: 355px;
+}
+
+#faq {
+	margin-top:20px;
+	margin-left: 155px;
+	padding-right: 255px;
+	font-size: 1rem;
+}
